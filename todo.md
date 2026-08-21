@@ -5,5 +5,5 @@
 - [x] Add tests for success, validation, authorization, conflict, missing workflows, and activation failure paths.
 - [x] Add CI, strict documentation, and source hygiene controls.
 - [x] Verify tests, production dependency audit, documentation, and LAN health.
-- [ ] Publish and verify the public repository.
-- [ ] Report verified evidence before Project 401.
+- [x] Publish and verify the public repository.
+- [x] Report verified evidence before Project 401.
